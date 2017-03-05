@@ -3,7 +3,7 @@ var config = {
 
    output: {
       path:'/',
-      filename: 'react-helloworld-jsx.js',
+      filename: 'react-helloworld.js',
    },
 
    devServer: {
