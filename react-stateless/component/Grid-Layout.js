@@ -7,8 +7,6 @@ export default React.createClass({
   render() {
     return (
       <div>
-        This my Testing
-        heheheeh
         <Header/>
         <Content/>
       </div>
