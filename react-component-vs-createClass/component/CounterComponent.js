@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class MyComponent extends React.Component {
+export default class CounterComponent extends React.Component {
   
   // This Method supports only in Component
   constructor(props) {
